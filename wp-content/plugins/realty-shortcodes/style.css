@@ -1,0 +1,22 @@
+/** Realty list **/
+.realty-item{
+	margin-bottom: 20px;
+}
+.realty-meta{
+	margin-left: -1.25rem;
+	margin-right: -1.25rem;
+	margin-bottom: -1.25rem;
+	font-size: 0.8rem;
+}
+.last-realty{
+	margin-bottom: 50px;
+}
+/** Realty list **/
+
+
+
+/** Add realty form **/
+.add-realty form{
+	margin-bottom: 20px;
+}
+/** Add realty form **/
